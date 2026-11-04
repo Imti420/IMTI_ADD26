@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 5075,
+      "bodyTextHash": "da5199f190f2ace897bc59a4602e46759dde4ff2bbb3e5df8f4156bbbd702209",
+      "bodyTextPrefix": "SKIP VOL. 01 · DHAKA DESK · SESSION 2026–27 ADMISSION//26 FILE N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 4753,
+      "bodyTextHash": "9fa0f593b533e09943507d64454b277390f6c91c1ee0cc6965b596b11a0ab85a",
+      "bodyTextPrefix": "SKIP VOL. 01 · DHAKA DESK · SESSION 2026–27 ADMISSION//26 FILE N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

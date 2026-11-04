@@ -1,0 +1,164 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f1efe9;
+  --color-ink: #111111;
+  --color-accent: #d71920;
+  --color-mute: #777777;
+  --color-panel: #e6e2d6;
+  --color-signal: #c45c12;
+  --font-display: "Barlow Condensed", "Arial Narrow", Impact, sans-serif;
+  --font-sans: "Source Sans 3", "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: var(--color-paper);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+}
+
+@keyframes crawl-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes log-in {
+  from {
+    opacity: 0;
+    transform: translateX(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes filter-swap {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes rule-pulse {
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.crawl-live {
+  animation: crawl-pulse 1.8s ease-in-out infinite;
+}
+
+.rise {
+  animation: rise 520ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.page-enter {
+  animation: page-enter 380ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.log-in {
+  animation: log-in 420ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.filter-swap {
+  animation: filter-swap 280ms ease both;
+}
+
+.rule-wait {
+  animation: rule-pulse 1.4s ease-in-out infinite;
+}
+
+.card-doc {
+  transition:
+    background-color 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.card-doc:hover,
+.card-doc:focus-within {
+  background: var(--color-panel);
+  box-shadow: 4px 4px 0 0 var(--color-ink);
+}
+
+.desk-anchor {
+  scroll-margin-top: 5.5rem;
+}
+
+.log-feed summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.log-feed summary::-webkit-details-marker {
+  display: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
+}

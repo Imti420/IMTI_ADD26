@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 4511,
+      "bodyTextHash": "826b130334f76cad9842462c464ab8f4d69335b34122c33461efcffa05ee1bc0",
+      "bodyTextPrefix": "SKIP VOL. 01 · DHAKA DESK · SESSION 2026–27 ADMISSION//26 FILE N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 4187,
+      "bodyTextHash": "811a2a288be9ade69282fd1fd4964bfe0cabc84d6db2e38bb12b79adff0cd16c",
+      "bodyTextPrefix": "SKIP VOL. 01 · DHAKA DESK · SESSION 2026–27 ADMISSION//26 FILE N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (5075 -> 4511 chars, hash mismatch)",
+    "mobile: body text changed (4753 -> 4187 chars, hash mismatch)"
+  ]
+}
