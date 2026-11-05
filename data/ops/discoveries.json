@@ -13609,5 +13609,83 @@
     "universityId": "agri",
     "shortName": "AGRI",
     "downloaded": false
+  },
+  {
+    "url": "https://dghs.gov.bd/pages/notices",
+    "foundOn": "https://dghs.gov.bd/",
+    "foundAt": "2026-11-05T05:05:13.287Z",
+    "title": "সকল নোটিশ দেখুন",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "dghs:https://dghs.gov.bd/pages/notices",
+    "universityId": "dghs",
+    "shortName": "DGHS",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.ru.ac.bd/blog/notice/admission-going-on-statistical-computing-certificate-course-on-ms-excel-spss-and-research-methodology-organized-by-department-of-statistics-and-data-science",
+    "foundOn": "https://www.ru.ac.bd/",
+    "foundAt": "2026-11-05T05:05:33.601Z",
+    "title": "পরিসংখ্যান ও উপাত্ত বিজ্ঞান বিভাগের “Statistical Computing Certificate Course” এর 37 তম ব্যাচে ভর্তি বিজ্ঞপ্তি",
+    "kind": "page",
+    "score": 27,
+    "sameSite": true,
+    "id": "ru:https://www.ru.ac.bd/blog/notice/admission-going-on-statistical-computing-certificate-course-on-ms-excel-spss-and-research-methodology-organized-by-department-of-statistics-and-",
+    "universityId": "ru",
+    "shortName": "RU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.ru.ac.bd/blog/notice/%e0%a6%a8%e0%a6%9c%e0%a6%b0%e0%a7%81%e0%a6%b2-%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%b7-%e0%a6%89%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%8d%e0%a6%af%e0%a7%87-%e0%a6%86%e0%a6%97%e0%a6%be",
+    "foundOn": "https://www.ru.ac.bd/",
+    "foundAt": "2026-11-05T05:05:47.805Z",
+    "title": "নজরুল বর্ষ উপলক্ষ্যে আগামী ২৮ ও ২৯ অক্টোবর ২০২৬ বুধবার ও বৃহস্পতিবার অনুষ্ঠিতব্য সাংস্কৃতিক প্রতিযোগিতা অনিবার্য কারণবশত স্থগিত করা হয়েছে।",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "ru:https://www.ru.ac.bd/blog/notice/%e0%a6%a8%e0%a6%9c%e0%a6%b0%e0%a7%81%e0%a6%b2-%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%b7-%e0%a6%89%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%",
+    "universityId": "ru",
+    "shortName": "RU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.iu.ac.bd/public/images/notice/a995b36e145a8998a7365e885b91d39f.pdf",
+    "foundOn": "https://www.iu.ac.bd/",
+    "foundAt": "2026-11-05T05:06:06.211Z",
+    "title": "VIEW",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "iu:https://www.iu.ac.bd/public/images/notice/a995b36e145a8998a7365e885b91d39f.pdf",
+    "universityId": "iu",
+    "shortName": "IU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/4061e9ff8f9f0b6e6bc1d06616c107c3.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-05T05:06:13.623Z",
+    "title": "Admission Announcement of M.Sc. in CSE (Professional) Program, Spring-2027",
+    "kind": "pdf",
+    "score": 9,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/4061e9ff8f9f0b6e6bc1d06616c107c3.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/d9d6b44acac3e0e4e4ad98bacd455ea7.pdf",
+    "foundOn": "https://jnu.ac.bd/newsite/noticeview/1",
+    "foundAt": "2026-11-05T05:06:16.776Z",
+    "title": "Master of Social Science (Professional) in Governance and Policy Studies ভর্তির বিজ্ঞাপন ও ভর্তি ফরম সংক্রান্ত বিজ্ঞপ্তি",
+    "kind": "pdf",
+    "score": 14,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/d9d6b44acac3e0e4e4ad98bacd455ea7.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
