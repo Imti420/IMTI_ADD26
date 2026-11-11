@@ -14909,5 +14909,57 @@
     "universityId": "jnu",
     "shortName": "JnU",
     "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/352363cbf354c12df8a3770db84173bc.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-11T04:42:03.515Z",
+    "title": "Office Order of Md. Zakaria Khan, Department of Mass Communication and Journalism",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/352363cbf354c12df8a3770db84173bc.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/9dbc53121096c2b165ca4895abc36c90.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-11T04:42:03.515Z",
+    "title": "Office Order of Dr. Md. Mafizur Rahman, Department of Public Administration",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/9dbc53121096c2b165ca4895abc36c90.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/939d9a9778804afebbb48ed3a2f423bb.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-11T04:42:03.515Z",
+    "title": "Office Order of Mamun Chowdhury, Department of Economics",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/939d9a9778804afebbb48ed3a2f423bb.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/e233f245d27c59394ef2d60fef6e0285.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-11T04:42:03.515Z",
+    "title": "Office Order of Lamia Islam, Department of Political Science",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/e233f245d27c59394ef2d60fef6e0285.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
