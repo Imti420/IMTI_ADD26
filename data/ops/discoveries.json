@@ -15819,5 +15819,18 @@
     "universityId": "iu",
     "shortName": "IU",
     "downloaded": false
+  },
+  {
+    "url": "http://admission.aust.edu/syllabus-of-undergraduate-admission-test-for-fall-2022",
+    "foundOn": "https://www.aust.edu/",
+    "foundAt": "2026-11-13T03:12:12.464Z",
+    "title": "Syllabus for UG (ENGG./ARCH.) Admission Test, Fall 2022",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "aust:http://admission.aust.edu/syllabus-of-undergraduate-admission-test-for-fall-2022",
+    "universityId": "aust",
+    "shortName": "AUST",
+    "downloaded": false
   }
 ]
