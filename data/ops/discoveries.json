@@ -16066,5 +16066,70 @@
     "universityId": "kurau",
     "shortName": "KurAU",
     "downloaded": false
+  },
+  {
+    "url": "https://aust.edu/notice/3488",
+    "foundOn": "https://www.aust.edu/",
+    "foundAt": "2026-11-15T08:11:25.590Z",
+    "title": "Apply for Original Certificate through IUMS and Manual for the graduates of Spring 2024, Fall 2024, Spring 2025 and Fall 2025 will remain postponed from 30 November 2026 (Monday) to 23 December 2026 (Wednesday)",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "aust:https://aust.edu/notice/3488",
+    "universityId": "aust",
+    "shortName": "AUST",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/2d368a46e67f1f3eae578bd5edbf1c2b.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-15T08:14:58.572Z",
+    "title": "Admission Circular and Application Form of Masters in Public Administration and Governance (MPAG), Department of Public Administration, Spring-2027",
+    "kind": "pdf",
+    "score": 21,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/2d368a46e67f1f3eae578bd5edbf1c2b.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/e01b7ddff4506c50c007f8a09e7d3334.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-15T08:14:58.572Z",
+    "title": "Office Order of Dr. Mohammad Rezaul Sadat, Department of Printmaking",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/e01b7ddff4506c50c007f8a09e7d3334.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/5683a3c7fd6f74ac008f17d799490043.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-15T08:14:58.572Z",
+    "title": "Office Order of Sohana Al Sanjee, Department of Microbiology",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/5683a3c7fd6f74ac008f17d799490043.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/1c85d5fb81b9a8798ebebe8e0ab8c2f5.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-15T08:14:58.572Z",
+    "title": "NOC of Abdullah Al Masud, Department of Zoology",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/1c85d5fb81b9a8798ebebe8e0ab8c2f5.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
