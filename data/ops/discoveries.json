@@ -16040,5 +16040,31 @@
     "universityId": "kurau",
     "shortName": "KurAU",
     "downloaded": false
+  },
+  {
+    "url": "https://kuriau.edu.bd/category/notice-and-announcements/feed",
+    "foundOn": "https://kuriau.edu.bd/category/notice-and-announcements/",
+    "foundAt": "2026-11-15T01:28:51.253Z",
+    "title": "RSS or Atom feed",
+    "kind": "feed",
+    "score": 4,
+    "sameSite": true,
+    "id": "kurau:https://kuriau.edu.bd/category/notice-and-announcements/feed",
+    "universityId": "kurau",
+    "shortName": "KurAU",
+    "downloaded": false
+  },
+  {
+    "url": "https://kuriau.edu.bd/category/notice-and-announcements",
+    "foundOn": "https://kuriau.edu.bd/",
+    "foundAt": "2026-11-15T01:28:51.255Z",
+    "title": "All Notices",
+    "kind": "page",
+    "score": 4,
+    "sameSite": true,
+    "id": "kurau:https://kuriau.edu.bd/category/notice-and-announcements",
+    "universityId": "kurau",
+    "shortName": "KurAU",
+    "downloaded": false
   }
 ]
