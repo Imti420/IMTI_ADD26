@@ -21539,5 +21539,18 @@
     "universityId": "bou",
     "shortName": "BOU",
     "downloaded": false
+  },
+  {
+    "url": "https://osapsnew.bou.ac.bd/public/storage/programs/52/b_sc_in_cse_circular_12th_batch_261_term__1795753299508.pdf",
+    "foundOn": "https://www.bou.ac.bd/BOU/Admission",
+    "foundAt": "2026-11-27T04:26:20.942Z",
+    "title": "Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://osapsnew.bou.ac.bd/public/storage/programs/52/b_sc_in_cse_circular_12th_batch_261_term__1795753299508.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
   }
 ]
