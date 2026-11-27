@@ -21552,5 +21552,57 @@
     "universityId": "bou",
     "shortName": "BOU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/examinaiton/1882997152678350.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-27T22:45:30.552Z",
+    "title": "Corrected Exam schedule of BAgEd Program (261 Term, January - June 2026) 2026-11-27",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/examinaiton/1882997152678350.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/officeorder/1882987141297110.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-27T22:45:30.552Z",
+    "title": "Office Order of Dr. Md. Zahangir Alam, Professor (Bangla), SSHL, BOU",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/officeorder/1882987141297110.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://osapsnew.bou.ac.bd/public/storage/programs/52/b_sc_in_cse_circular_12th_batch_261_term__1795754395214.pdf",
+    "foundOn": "https://www.bou.ac.bd/BOU/Admission",
+    "foundAt": "2026-11-27T22:45:34.359Z",
+    "title": "Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://osapsnew.bou.ac.bd/public/storage/programs/52/b_sc_in_cse_circular_12th_batch_261_term__1795754395214.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.du.ac.bd/du_post_details/notice/29287",
+    "foundOn": "https://www.du.ac.bd/",
+    "foundAt": "2026-11-27T22:49:06.815Z",
+    "title": "24 Nov Professional Masters in Artifical Intelligence and Data Engineering (PMAIDE) প্রোগ্রামর জানুয়ারী-২০২৭ সেমিস্টারে (৩য় ব্যাচ) ভর্তি বিজ্ঞপ্তি 24 Nov, 2026",
+    "kind": "page",
+    "score": 20,
+    "sameSite": true,
+    "id": "du:https://www.du.ac.bd/du_post_details/notice/29287",
+    "universityId": "du",
+    "shortName": "DU",
+    "downloaded": false
   }
 ]
